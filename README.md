@@ -4,7 +4,6 @@ THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY
 
 Version: 2.0.0
 Platform: ESP32
-License: MIT
 
 A powerful ESP32-based remote control system for Windows computers, featuring a modern web interface for system management and automation.
 
